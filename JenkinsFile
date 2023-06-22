@@ -1,0 +1,2 @@
+@Library('demo-shared-lib') _
+hellojob 'admin-hello-world'
